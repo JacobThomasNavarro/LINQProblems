@@ -1,0 +1,6 @@
+C:\Users\jt10n\Desktop\devCodeCamp\Week_07\Projects\LINQ Problems\LINQ Problems\bin\Debug\LINQ Problems.exe.config
+C:\Users\jt10n\Desktop\devCodeCamp\Week_07\Projects\LINQ Problems\LINQ Problems\bin\Debug\LINQ Problems.exe
+C:\Users\jt10n\Desktop\devCodeCamp\Week_07\Projects\LINQ Problems\LINQ Problems\bin\Debug\LINQ Problems.pdb
+C:\Users\jt10n\Desktop\devCodeCamp\Week_07\Projects\LINQ Problems\LINQ Problems\obj\Debug\LINQ Problems.csprojAssemblyReference.cache
+C:\Users\jt10n\Desktop\devCodeCamp\Week_07\Projects\LINQ Problems\LINQ Problems\obj\Debug\LINQ Problems.exe
+C:\Users\jt10n\Desktop\devCodeCamp\Week_07\Projects\LINQ Problems\LINQ Problems\obj\Debug\LINQ Problems.pdb
